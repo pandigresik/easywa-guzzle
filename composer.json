@@ -1,5 +1,5 @@
 {
-    "name": "ahmad/guzzle-example",
+    "name": "pandigresik/easywa-guzzle",
     "description": "Example send message to easywa using guzzle",
     "type": "project",
     "require": {
