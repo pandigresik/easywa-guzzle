@@ -1,0 +1,22 @@
+{
+    "name": "ahmad/guzzle-example",
+    "description": "Example send message to easywa using guzzle",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "guzzlehttp/psr7": "^2.2",
+        "guzzlehttp/promises": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Message\\": "message/"                              
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ahmad",
+            "email": "ahmad.afandi85@gmail.com"
+        }
+    ]
+}
